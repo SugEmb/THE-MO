@@ -2768,7 +2768,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8466653368893975276, guid: ccb744292439f704a9ecc9aee4967be1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 629866731}
   m_SourcePrefab: {fileID: 100100000, guid: ccb744292439f704a9ecc9aee4967be1, type: 3}
 --- !u!4 &322275967 stripped
 Transform:
@@ -5472,6 +5475,30 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1018666258727150813, guid: 51922862e6d8dfe47a855f0e42cc3d99, type: 3}
   m_PrefabInstance: {fileID: 592894127}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &629866727 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8466653368893975276, guid: ccb744292439f704a9ecc9aee4967be1, type: 3}
+  m_PrefabInstance: {fileID: 322275966}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &629866731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629866727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b572a9122c0e9924e944ba4c6e4893ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::lightmosscode
+  lightColor: {r: 1, g: 0, b: 0, a: 1}
+  offColor: {r: 0, g: 0, b: 0, a: 1}
+  dotDuration: 0.2
+  dashDuration: 0.6
+  symbolPause: 0.15
+  letterPause: 0.6
+  wordPause: 1.2
 --- !u!1 &652627283
 GameObject:
   m_ObjectHideFlags: 0
