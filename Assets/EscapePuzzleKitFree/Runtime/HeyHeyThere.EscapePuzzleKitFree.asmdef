@@ -1,0 +1,9 @@
+{
+    "name": "HeyHeyThere.EscapePuzzleKitFree",
+    "rootNamespace": "HeyHeyThere.EscapePuzzleKitFree",
+    "references": ["Unity.InputSystem"],
+    "autoReferenced": true,
+    "versionDefines": [
+        {"name": "com.unity.inputsystem", "expression": "1.0.0", "define": "INPUT_SYSTEM_PACKAGE"}
+    ]
+}

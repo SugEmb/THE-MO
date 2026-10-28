@@ -1,0 +1,7 @@
+Third-Party Notices
+===================
+
+No third-party material is included. These folders hold content from other packs by heyheythere,
+this package's publisher, licensed with the rest of the package:
+
+- Sounds/: from PSX Horror SFX
