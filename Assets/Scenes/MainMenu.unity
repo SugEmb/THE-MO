@@ -2014,6 +2014,7 @@ MonoBehaviour:
   minInterval: 2.5
   maxInterval: 6
   glitchDuration: 0.12
+<<<<<<< HEAD
   glitchColor:
     r: 1
     g: 0.25
@@ -2032,6 +2033,11 @@ MonoBehaviour:
   nextGlitchTime: 0
   glitchEndTime: 0
   isGlitching: 0
+=======
+  glitchColor: {r: 1, g: 0.25, b: 0.35, a: 0.7}
+  horizontalOffset: 5
+  verticalOffset: 1
+>>>>>>> 94e4cb8583caeacb3a25e0fd81da86c72ef28876
 --- !u!114 &2034937365
 MonoBehaviour:
   m_ObjectHideFlags: 0
