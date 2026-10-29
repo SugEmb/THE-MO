@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a42918f11d32d94581e2a91a467e49a, type: 3}
+  m_Name: DialogueDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueDatabase
+  responses:
+  - categoryName: iinter
+    keywords:
+    - hello
+    - hi
+    - HI
+    - Hi
+    - HELLO
+    - Hello
+    randomReplies:
+    - hello,player
+  - categoryName: qes
+    keywords:
+    - who
+    randomReplies:
+    - i am ECHO your persanol helper friends
+  - categoryName: 2
+    keywords:
+    - hey
+    randomReplies:
+    - what? player
+  - categoryName: 3
+    keywords:
+    - ultimate echo
+    randomReplies:
+    - you,should look for secret code in room 1 and 2
+  - categoryName: 4
+    keywords:
+    - fuck
+    - shit
+    - nigger
+    randomReplies:
+    - don't say that it not good you know
+    - bad that isn't how you talk to me
+  - categoryName: 5
+    keywords:
+    - where
+    randomReplies:
+    - it a secret lab
+    - this is lab that test the ai
+  - categoryName: 6
+    keywords:
+    - how
+    randomReplies:
+    - 'i am good '
+  - categoryName: 7
+    keywords:
+    - 'love '
+    randomReplies:
+    - i love you too player
+  - categoryName: 8
+    keywords:
+    - is that way safe
+    randomReplies:
+    - 'yes it is player trust me '
+  - categoryName: 9
+    keywords:
+    - are you sure
+    randomReplies:
+    - i am 100%
+  - categoryName: a
+    keywords:
+    - liar
+    randomReplies:
+    - no,you should trust me player not the evidence
+  - categoryName: s
+    keywords:
+    - bye
+    - adios
+    - sayonara
+    randomReplies:
+    - no,came back and be my subject
+  - categoryName: d
+    keywords:
+    - 01000110
+    - 01101001
+    - 01101100
+    - 01100101
+    - 0110000
+    - 00110111
+    randomReplies:
+    - it look like binary code you should look for it in internet,i am just ai that
+      want to trained by you
+  fallbackReplies:
+  - enrique
+  - what do you say player
+  - i can't understand that word yet
