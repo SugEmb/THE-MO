@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1087137706352787645
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      propertyPath: m_Name
+      value: flashlight
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3222341370016456711}
+    - targetCorrespondingSourceObject: {fileID: 2408404476847906107, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6634014814281405402}
+  m_SourcePrefab: {fileID: 100100000, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+--- !u!1 &3349014456124153222 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2408404476847906107, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+  m_PrefabInstance: {fileID: 1087137706352787645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6634014814281405402
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3349014456124153222}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.224, y: 0.064, z: 0.060867622}
+  m_Center: {x: 0.0020000003, y: 0.032, z: 0.000000006519258}
+--- !u!1 &8950804124502858164 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: bcaff3bf88bd6298189108db5f2be48c, type: 3}
+  m_PrefabInstance: {fileID: 1087137706352787645}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3222341370016456711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8950804124502858164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d0771d7ebf58c93dbd77c7bc49d0697, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Pickup
+  label: 
+  focusIcon: 0
+  onInteracted:
+    m_PersistentCalls:
+      m_Calls: []
+  item: {fileID: 11400000, guid: ba4231aec03c7bec64708ed60e83f7bf, type: 2}
+  count: 1
+  beat: {fileID: 0}
+  examine: 0
+  takeSound: {fileID: 8300000, guid: 7c232f805853331641cc8a258adc3bb4, type: 3}
+  onTaken:
+    m_PersistentCalls:
+      m_Calls: []

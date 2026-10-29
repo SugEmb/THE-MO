@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a21ff3e9109a088dec871830116e04ae, type: 3}
+  m_Name: flashlight
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Item
+  id: flashlight
+  title: Flashlight
+  description: A heavy rubber torch. F switches it on; it runs on the battery.
+  icon: {fileID: 21300000, guid: 7842ddd6f0ea1534881387e1214bef63, type: 3}
+  kind: 4
+  amount: 0
+  text: 
+  keep: 0
+  model: {fileID: 8950804124502858164, guid: d9759e694526aac0159ccca8f13912b6, type: 3}

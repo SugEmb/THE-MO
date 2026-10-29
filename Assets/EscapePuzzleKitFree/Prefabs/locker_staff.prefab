@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6794561431799664153
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5716681864270162303, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_PlayAutomatically
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      propertyPath: m_Name
+      value: locker_staff
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -927199367670048503, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6658244764287425208}
+    - targetCorrespondingSourceObject: {fileID: 3831529556074053625, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9161657721684907753}
+    - targetCorrespondingSourceObject: {fileID: 4850395142006917867, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4832711448230857145}
+  m_SourcePrefab: {fileID: 100100000, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+--- !u!1 &2097324139628414194 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4850395142006917867, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+  m_PrefabInstance: {fileID: 6794561431799664153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4832711448230857145
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097324139628414194}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.494, y: 1.694, z: 0.04050018}
+  m_Center: {x: -0.24999999, y: 0.95000005, z: 0.020250108}
+--- !u!1 &3272652971995977488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+  m_PrefabInstance: {fileID: 6794561431799664153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6658244764287425208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3272652971995977488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c10e28563aa4102e1e94fa9a7dcac73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Stash
+  label: Locker
+  focusIcon: 0
+  onInteracted:
+    m_PersistentCalls:
+      m_Calls: []
+  open: 0
+  motion:
+    mode: 1
+    clip: open
+    part: {fileID: 0}
+    axis: {x: 0, y: 1, z: 0}
+    angle: 90
+    offset: {x: 0, y: 0, z: 0.4}
+    seconds: 1
+  openSound: {fileID: 8300000, guid: 8482195c916e7921ba30a72fd0cb4f16, type: 3}
+  closeSound: {fileID: 8300000, guid: a0b2ff8bba98c49fae663c85918a677c, type: 3}
+  onOpened:
+    m_PersistentCalls:
+      m_Calls: []
+  onClosed:
+    m_PersistentCalls:
+      m_Calls: []
+  item: {fileID: 0}
+  count: 1
+  beat: {fileID: 0}
+  shown: {fileID: 0}
+--- !u!1 &7739280152093864416 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3831529556074053625, guid: 5c49c8c402a6e241dd5f985d89729acf, type: 3}
+  m_PrefabInstance: {fileID: 6794561431799664153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &9161657721684907753
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7739280152093864416}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.5, y: 1.8000001, z: 0.5000003}
+  m_Center: {x: 0.000000014901161, y: 0.8999999, z: 0.25000015}

@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1394848439892651823
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5716681864270162303, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_PlayAutomatically
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      propertyPath: m_Name
+      value: cabinet_drawers
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3659372239352945492, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1912491353112901418}
+    - targetCorrespondingSourceObject: {fileID: 3396674014309387207, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7200357856419280189}
+    - targetCorrespondingSourceObject: {fileID: 3396674014309387207, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6804932665384793089}
+    - targetCorrespondingSourceObject: {fileID: -8375204711245548329, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2337946006391795895}
+    - targetCorrespondingSourceObject: {fileID: -8375204711245548329, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5853541490786620643}
+    - targetCorrespondingSourceObject: {fileID: 130992184772250677, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3894161912545566915}
+    - targetCorrespondingSourceObject: {fileID: 130992184772250677, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6180959620767571651}
+  m_SourcePrefab: {fileID: 100100000, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+--- !u!1 &1335915384095433498 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 130992184772250677, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+  m_PrefabInstance: {fileID: 1394848439892651823}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3894161912545566915
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335915384095433498}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.47, y: 0.30800003, z: 0.6275001}
+  m_Center: {x: 0, y: 0.000000007450581, z: -0.26625004}
+--- !u!114 &6180959620767571651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335915384095433498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c10e28563aa4102e1e94fa9a7dcac73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Stash
+  label: Drawer
+  focusIcon: 0
+  onInteracted:
+    m_PersistentCalls:
+      m_Calls: []
+  open: 0
+  motion:
+    mode: 1
+    clip: drawer_3
+    part: {fileID: 0}
+    axis: {x: 0, y: 1, z: 0}
+    angle: 90
+    offset: {x: 0, y: 0, z: 0.4}
+    seconds: 1
+  openSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  closeSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  onOpened:
+    m_PersistentCalls:
+      m_Calls: []
+  onClosed:
+    m_PersistentCalls:
+      m_Calls: []
+  item: {fileID: 0}
+  count: 1
+  beat: {fileID: 0}
+  shown: {fileID: 0}
+--- !u!1 &1773913527254834168 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8375204711245548329, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+  m_PrefabInstance: {fileID: 1394848439892651823}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2337946006391795895
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773913527254834168}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.47, y: 0.30799997, z: 0.6275001}
+  m_Center: {x: 0, y: 0, z: -0.26625004}
+--- !u!114 &5853541490786620643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773913527254834168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c10e28563aa4102e1e94fa9a7dcac73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Stash
+  label: Drawer
+  focusIcon: 0
+  onInteracted:
+    m_PersistentCalls:
+      m_Calls: []
+  open: 0
+  motion:
+    mode: 1
+    clip: drawer_2
+    part: {fileID: 0}
+    axis: {x: 0, y: 1, z: 0}
+    angle: 90
+    offset: {x: 0, y: 0, z: 0.4}
+    seconds: 1
+  openSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  closeSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  onOpened:
+    m_PersistentCalls:
+      m_Calls: []
+  onClosed:
+    m_PersistentCalls:
+      m_Calls: []
+  item: {fileID: 0}
+  count: 1
+  beat: {fileID: 0}
+  shown: {fileID: 0}
+--- !u!1 &2419502746676884603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3659372239352945492, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+  m_PrefabInstance: {fileID: 1394848439892651823}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1912491353112901418
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2419502746676884603}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3399378081424371221, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+--- !u!1 &4357257108043408616 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3396674014309387207, guid: 158977b8d9ff4fc8954e729d0ad1172b, type: 3}
+  m_PrefabInstance: {fileID: 1394848439892651823}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7200357856419280189
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4357257108043408616}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.47, y: 0.30800003, z: 0.6275001}
+  m_Center: {x: 0, y: 0.000000029802322, z: -0.26625004}
+--- !u!114 &6804932665384793089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4357257108043408616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c10e28563aa4102e1e94fa9a7dcac73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: HeyHeyThere.EscapePuzzleKitFree::HeyHeyThere.EscapePuzzleKitFree.Stash
+  label: Drawer
+  focusIcon: 0
+  onInteracted:
+    m_PersistentCalls:
+      m_Calls: []
+  open: 0
+  motion:
+    mode: 1
+    clip: drawer_1
+    part: {fileID: 0}
+    axis: {x: 0, y: 1, z: 0}
+    angle: 90
+    offset: {x: 0, y: 0, z: 0.4}
+    seconds: 1
+  openSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  closeSound: {fileID: 8300000, guid: 576d48f70dfb1ff3f8b68dbecbe51288, type: 3}
+  onOpened:
+    m_PersistentCalls:
+      m_Calls: []
+  onClosed:
+    m_PersistentCalls:
+      m_Calls: []
+  item: {fileID: 0}
+  count: 1
+  beat: {fileID: 0}
+  shown: {fileID: 0}
