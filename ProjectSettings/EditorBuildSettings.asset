@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/THEMA.unity
     guid: 496908bb20359864fb3cf862ba7b888f
-  - enabled: 1
+  - enabled: 0
     path: Assets/THEMA2.unity
     guid: d2be7cfc891402a41bb8e3057b9f5a41
   m_configObjects:
