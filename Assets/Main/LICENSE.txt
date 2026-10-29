@@ -1,0 +1,14 @@
+Escape Puzzle Kit Free - license
+
+Made and licensed by heyheythere (https://heyheythere.itch.io)
+
+You may use these scripts, models, textures, animations, levels and icons in any number of
+commercial and non-commercial games and apps, modified or not. No attribution is required.
+
+You may not sell, share or redistribute the scripts, models or textures themselves, alone or as
+part of another asset pack, template or library.
+
+The sounds (Sounds/) are PSX Horror SFX's by heyheythere, under their own licence in
+Sounds/LICENSE.txt, which says the same.
+
+The assets are provided "as is", without warranty of any kind.
